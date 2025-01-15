@@ -2,8 +2,132 @@
   "name": "AI&Emby",
   "icons": [
     {
-      "name": "*",
-      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/*.png"
+      "name": "AZZ-Drive-ALiYun",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-Drive-ALiYun.png"
+    },
+    {
+      "name": "AZZ-Drive-Alist",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-Drive-Alist.png"
+    },
+    {
+      "name": "AZZ-Drive-BaiDuYun",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-Drive-BaiDuYun.png"
+    },
+    {
+      "name": "AZZ-Drive-OneDrive",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-Drive-OneDrive.png"
+    },
+    {
+      "name": "AZZ-LOGO-Emby",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-LOGO-Emby.png"
+    },
+    {
+      "name": "AZZ-LOGO-Fileball",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-LOGO-Fileball.png"
+    },
+    {
+      "name": "AZZ-LOGO-Infuse",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-LOGO-Infuse.png"
+    },
+    {
+      "name": "AZZ-LOGO-Plex",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/AZZ-LOGO-Plex.png"
+    },
+    {
+      "name": "BDD",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/BDD.png"
+    },
+    {
+      "name": "BGK",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/BGK.png"
+    },
+    {
+      "name": "CC",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/CC.png"
+    },
+    {
+      "name": "Dog",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Dog.png"
+    },
+    {
+      "name": "Dolphin",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Dolphin.png"
+    },
+    {
+      "name": "GUGU",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/GUGU.png"
+    },
+    {
+      "name": "JMS",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/JMS.png"
+    },
+    {
+      "name": "Loser",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Loser.png"
+    },
+    {
+      "name": "LyreBird",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/LyreBird.png"
+    },
+    {
+      "name": "Magic",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Magic.png"
+    },
+    {
+      "name": "Magpie",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Magpie.png"
+    },
+    {
+      "name": "Micu",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Micu.png"
+    },
+    {
+      "name": "MisakaF",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/MisakaF.png"
+    },
+    {
+      "name": "Misty",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Misty.png"
+    },
+    {
+      "name": "Nebula",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Nebula.png"
+    },
+    {
+      "name": "Nir",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Nir.png"
+    },
+    {
+      "name": "Odyssey",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Odyssey.png"
+    },
+    {
+      "name": "PAUL",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/PAUL.png"
+    },
+    {
+      "name": "Panda",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Panda.png"
+    },
+    {
+      "name": "PiliPili",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/PiliPili.png"
+    },
+    {
+      "name": "Polo",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Polo.png"
+    },
+    {
+      "name": "Terminus",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/Terminus.png"
+    },
+    {
+      "name": "TreeDiagram",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/TreeDiagram.png"
+    },
+    {
+      "name": "TuBoShu",
+      "url": "https://raw.githubusercontent.com/kvein10086/Yamby/main/icons/TuBoShu.png"
     }
   ]
 }
