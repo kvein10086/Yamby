@@ -18,10 +18,10 @@ jobs:
 
     - name: Generate icons.json
       run: |
-        ICONS_JSON='{"name": "AI&Emby", "description": "GitHub: @cc63", "icons": []}'
+        ICONS_JSON='{"name": "AI&Emby", "icons": []}'
         for icon in icons/*.png; do
           ICON_NAME=$(basename "$icon" .png)
-          ICON_URL="https://raw.githubusercontent.com/cc63/Fileball/main/$icon"
+          ICON_URL="https://raw.githubusercontent.com/kvein10086/Yamby/main/$icon"
           ICONS_JSON=$(echo "$ICONS_JSON" | jq --arg name "$ICON_NAME" --arg url "$ICON_URL" '.icons += [{"name": $name, "url": $url}]')
         done
         echo "$ICONS_JSON" > icons.json
